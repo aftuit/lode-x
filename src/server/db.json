@@ -1,0 +1,187 @@
+{
+  "men": [
+    {
+      "like": false,
+      "status": "men",
+      "img": "/assets/imgs/men/img-1.png",
+      "label": "Белый Boncai",
+      "new": false,
+      "cart": false,
+      "price": "30000",
+      "id": 1
+    },
+    {
+      "like": false,
+      "status": "men",
+      "img": "/assets/imgs/men/img-2.png",
+      "label": "Белый Plade",
+      "new": true,
+      "cart": false,
+      "price": "32000",
+      "id": 2
+    },
+    {
+      "like": false,
+      "status": "men",
+      "img": "/assets/imgs/men/img-3.png",
+      "label": "Белый Deta Plade",
+      "new": false,
+      "cart": false,
+      "price": "45000",
+      "id": 3
+    },
+    {
+      "like": false,
+      "status": "men",
+      "img": "/assets/imgs/men/img-4.png",
+      "label": "Чёрный North Face",
+      "new": true,
+      "cart": false,
+      "price": "40000",
+      "id": 4
+    },
+    {
+      "like": false,
+      "status": "men",
+      "img": "/assets/imgs/men/img-5.png",
+      "label": "Чёрный Plain",
+      "new": false,
+      "cart": false,
+      "price": "42000",
+      "id": 5
+    },
+    {
+      "like": false,
+      "status": "men",
+      "img": "/assets/imgs/women/img-6.png",
+      "label": "Palm Angels",
+      "new": true,
+      "cart": false,
+      "price": "45000",
+      "id": 6
+    }
+  ],
+  "women": [
+    {
+      "like": false,
+      "status": "women",
+      "img": "/assets/imgs/women/img-1.png",
+      "label": "Белый Boncai",
+      "new": true,
+      "price": "30000",
+      "id": 1
+    },
+    {
+      "like": true,
+      "status": "women",
+      "img": "/assets/imgs/women/img-2.png",
+      "label": "Kelldone",
+      "new": false,
+      "cart": false,
+      "price": "32000",
+      "id": 2
+    },
+    {
+      "like": true,
+      "status": "women",
+      "img": "/assets/imgs/women/img-3.png",
+      "label": "Kenzo Paris",
+      "new": true,
+      "cart": false,
+      "price": "45000",
+      "id": 3
+    },
+    {
+      "like": false,
+      "status": "women",
+      "img": "/assets/imgs/women/img-4.png",
+      "label": "Moschino",
+      "new": true,
+      "cart": false,
+      "price": "40000",
+      "id": 4
+    },
+    {
+      "like": false,
+      "status": "women",
+      "img": "/assets/imgs/women/img-5.png",
+      "label": "Чёрный Balmain",
+      "new": false,
+      "cart": false,
+      "price": "42000",
+      "id": 5
+    },
+    {
+      "like": false,
+      "status": "women",
+      "img": "/assets/imgs/women/img-6.png",
+      "label": "Palm Angels",
+      "new": true,
+      "cart": false,
+      "price": "45000",
+      "id": 6
+    }
+  ],
+  "baby": [
+    {
+      "like": true,
+      "status": "baby",
+      "img": "/assets/imgs/baby/img-1.png",
+      "label": "Kelldone",
+      "new": false,
+      "cart": false,
+      "price": "30000",
+      "id": 1
+    },
+    {
+      "like": false,
+      "status": "baby",
+      "img": "/assets/imgs/baby/img-2.png",
+      "label": "Moschino",
+      "new": false,
+      "cart": false,
+      "price": "32000",
+      "id": 2
+    },
+    {
+      "like": false,
+      "status": "baby",
+      "img": "/assets/imgs/baby/img-3.png",
+      "label": "Белый Boncai",
+      "new": false,
+      "cart": false,
+      "price": "45000",
+      "id": 3
+    },
+    {
+      "like": false,
+      "status": "baby",
+      "img": "/assets/imgs/baby/img-4.png",
+      "label": "Белый Boncai",
+      "new": false,
+      "cart": false,
+      "price": "40000",
+      "id": 4
+    },
+    {
+      "like": true,
+      "status": "baby",
+      "img": "/assets/imgs/baby/img-5.png",
+      "label": "Белый Boncai",
+      "new": true,
+      "cart": false,
+      "price": "52000",
+      "id": 5
+    },
+    {
+      "like": false,
+      "status": "baby",
+      "img": "/assets/imgs/baby/img-6.png",
+      "label": "Белый Boncai",
+      "new": true,
+      "cart": false,
+      "price": "55000",
+      "id": 6
+    }
+  ]
+}
