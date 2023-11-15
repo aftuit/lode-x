@@ -68,11 +68,12 @@
       "img": "/assets/imgs/women/img-1.png",
       "label": "Белый Boncai",
       "new": true,
+      "cart": false,
       "price": "30000",
       "id": 1
     },
     {
-      "like": true,
+      "like": false,
       "status": "women",
       "img": "/assets/imgs/women/img-2.png",
       "label": "Kelldone",
@@ -82,7 +83,7 @@
       "id": 2
     },
     {
-      "like": true,
+      "like": false,
       "status": "women",
       "img": "/assets/imgs/women/img-3.png",
       "label": "Kenzo Paris",
@@ -124,7 +125,7 @@
   ],
   "baby": [
     {
-      "like": true,
+      "like": false,
       "status": "baby",
       "img": "/assets/imgs/baby/img-1.png",
       "label": "Kelldone",
@@ -164,7 +165,7 @@
       "id": 4
     },
     {
-      "like": true,
+      "like": false,
       "status": "baby",
       "img": "/assets/imgs/baby/img-5.png",
       "label": "Белый Boncai",
